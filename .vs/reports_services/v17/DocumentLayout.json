@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5054A-96F6-4AF5-96DF-66F676E03DA6}|tests\\reports_services.infrastructure.Tests\\reports_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.infrastructure.tests\\services\\surveyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5054A-96F6-4AF5-96DF-66F676E03DA6}|tests\\reports_services.infrastructure.Tests\\reports_services.infrastructure.Tests.csproj|solutionrelative:tests\\reports_services.infrastructure.tests\\services\\surveyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5054A-96F6-4AF5-96DF-66F676E03DA6}|tests\\reports_services.infrastructure.Tests\\reports_services.infrastructure.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.infrastructure.tests\\services\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5054A-96F6-4AF5-96DF-66F676E03DA6}|tests\\reports_services.infrastructure.Tests\\reports_services.infrastructure.Tests.csproj|solutionrelative:tests\\reports_services.infrastructure.tests\\services\\paymentservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\dtos\\promedioeventsurveydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\dtos\\promedioeventsurveydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAC565-2A94-48A4-AF2E-DE9F99F6FB92}|reports_services.infrastructure\\reports_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.infrastructure\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAC565-2A94-48A4-AF2E-DE9F99F6FB92}|reports_services.infrastructure\\reports_services.infrastructure.csproj|solutionrelative:reports_services.infrastructure\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAAAC565-2A94-48A4-AF2E-DE9F99F6FB92}|reports_services.infrastructure\\reports_services.infrastructure.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAAAC565-2A94-48A4-AF2E-DE9F99F6FB92}|reports_services.infrastructure\\reports_services.infrastructure.csproj|solutionrelative:reports_services.infrastructure\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.application.tests\\queries\\queries\\getreportepagosporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|solutionrelative:tests\\reports_services.application.tests\\queries\\queries\\getreportepagosporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\queries\\queries\\getreportepagosporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\queries\\queries\\getreportepagosporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.application.tests\\queries\\queries\\getpromedioencuestaporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|solutionrelative:tests\\reports_services.application.tests\\queries\\queries\\getpromedioencuestaporeventoquerytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\queries\\queries\\getpromedioencuestaporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\queries\\queries\\getpromedioencuestaporeventoquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.application.tests\\handler\\getreportepagosporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|solutionrelative:tests\\reports_services.application.tests\\handler\\getreportepagosporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.application.tests\\handler\\getpromedioencuestaporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47829BEF-6FCE-4138-9B36-D581ABCB2DCE}|tests\\reports_services.application.Tests\\reports_services.application.Tests.csproj|solutionrelative:tests\\reports_services.application.tests\\handler\\getpromedioencuestaporeventohandlertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\queries\\handler\\getreportepagosporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\queries\\handler\\getreportepagosporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\dtos\\historialpagoexternodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\dtos\\historialpagoexternodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.application\\queries\\handler\\getpromedioencuestaporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18CA95F4-F5E8-43B6-818B-33A5A8EDD95B}|reports_services.application\\reports_services.application.csproj|solutionrelative:reports_services.application\\queries\\handler\\getpromedioencuestaporeventohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4050036F-79BF-4103-9CDF-271FF25C7CFF}|tests\\reports_services.api.Tests\\reports_services.api.Tests.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\tests\\reports_services.api.tests\\controllers\\reportscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4050036F-79BF-4103-9CDF-271FF25C7CFF}|tests\\reports_services.api.Tests\\reports_services.api.Tests.csproj|solutionrelative:tests\\reports_services.api.tests\\controllers\\reportscontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{404EAA24-86D5-49C5-A5BF-C2B37070313C}|reports_services.api\\reports_services.api.csproj|c:\\users\\adbla\\documents\\github\\reports_services\\reports_services.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404EAA24-86D5-49C5-A5BF-C2B37070313C}|reports_services.api\\reports_services.api.csproj|solutionrelative:reports_services.api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{da1e233c-cfa8-5021-b06c-abc3d02f44e8}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PromedioEventSurveyDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "RelativeToolTip": "reports_services.application\\DTOs\\PromedioEventSurveyDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:15:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurveyServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.infrastructure.Tests\\Services\\SurveyServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.infrastructure.Tests\\Services\\SurveyServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.infrastructure.Tests\\Services\\SurveyServiceTest.cs",
+              "RelativeToolTip": "tests\\reports_services.infrastructure.Tests\\Services\\SurveyServiceTest.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:15:11.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.infrastructure.Tests\\Services\\PaymentServiceTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.infrastructure.Tests\\Services\\PaymentServiceTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.infrastructure.Tests\\Services\\PaymentServiceTest.cs",
+              "RelativeToolTip": "tests\\reports_services.infrastructure.Tests\\Services\\PaymentServiceTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:14:31.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SurveyService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.infrastructure\\Services\\SurveyService.cs",
+              "RelativeDocumentMoniker": "reports_services.infrastructure\\Services\\SurveyService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.infrastructure\\Services\\SurveyService.cs",
+              "RelativeToolTip": "reports_services.infrastructure\\Services\\SurveyService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:15:13.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.infrastructure\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "reports_services.infrastructure\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.infrastructure\\Services\\PaymentService.cs",
+              "RelativeToolTip": "reports_services.infrastructure\\Services\\PaymentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:13:50.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetReportePagosPorEventoQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Queries\\Queries\\GetReportePagosPorEventoQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.application.Tests\\Queries\\Queries\\GetReportePagosPorEventoQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Queries\\Queries\\GetReportePagosPorEventoQueryTest.cs",
+              "RelativeToolTip": "tests\\reports_services.application.Tests\\Queries\\Queries\\GetReportePagosPorEventoQueryTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:12:02.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetReportePagosPorEventoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Queries\\GetReportePagosPorEventoQuery.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\Queries\\Queries\\GetReportePagosPorEventoQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Queries\\GetReportePagosPorEventoQuery.cs",
+              "RelativeToolTip": "reports_services.application\\Queries\\Queries\\GetReportePagosPorEventoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:11:35.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetPromedioEncuestaPorEventoQueryTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Queries\\Queries\\GetPromedioEncuestaPorEventoQueryTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.application.Tests\\Queries\\Queries\\GetPromedioEncuestaPorEventoQueryTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Queries\\Queries\\GetPromedioEncuestaPorEventoQueryTest.cs",
+              "RelativeToolTip": "tests\\reports_services.application.Tests\\Queries\\Queries\\GetPromedioEncuestaPorEventoQueryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:11:30.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetPromedioEncuestaPorEventoQuery.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Queries\\GetPromedioEncuestaPorEventoQuery.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\Queries\\Queries\\GetPromedioEncuestaPorEventoQuery.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Queries\\GetPromedioEncuestaPorEventoQuery.cs",
+              "RelativeToolTip": "reports_services.application\\Queries\\Queries\\GetPromedioEncuestaPorEventoQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:10:46.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetReportePagosPorEventoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Handler\\GetReportePagosPorEventoHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.application.Tests\\Handler\\GetReportePagosPorEventoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Handler\\GetReportePagosPorEventoHandlerTest.cs",
+              "RelativeToolTip": "tests\\reports_services.application.Tests\\Handler\\GetReportePagosPorEventoHandlerTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowDMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:07:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetPromedioEncuestaPorEventoHandlerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Handler\\GetPromedioEncuestaPorEventoHandlerTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.application.Tests\\Handler\\GetPromedioEncuestaPorEventoHandlerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.application.Tests\\Handler\\GetPromedioEncuestaPorEventoHandlerTest.cs",
+              "RelativeToolTip": "tests\\reports_services.application.Tests\\Handler\\GetPromedioEncuestaPorEventoHandlerTest.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:06:39.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetReportePagosPorEventoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Handler\\GetReportePagosPorEventoHandler.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\Queries\\Handler\\GetReportePagosPorEventoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Handler\\GetReportePagosPorEventoHandler.cs",
+              "RelativeToolTip": "reports_services.application\\Queries\\Handler\\GetReportePagosPorEventoHandler.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:07:07.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HistorialPagoExternoDto.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\DTOs\\HistorialPagoExternoDto.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\DTOs\\HistorialPagoExternoDto.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\DTOs\\HistorialPagoExternoDto.cs",
+              "RelativeToolTip": "reports_services.application\\DTOs\\HistorialPagoExternoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:08:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetPromedioEncuestaPorEventoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Handler\\GetPromedioEncuestaPorEventoHandler.cs",
+              "RelativeDocumentMoniker": "reports_services.application\\Queries\\Handler\\GetPromedioEncuestaPorEventoHandler.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.application\\Queries\\Handler\\GetPromedioEncuestaPorEventoHandler.cs",
+              "RelativeToolTip": "reports_services.application\\Queries\\Handler\\GetPromedioEncuestaPorEventoHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:05:37.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.api\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "reports_services.api\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\reports_services.api\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "reports_services.api\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:01:03.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ReportsControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.api.Tests\\Controllers\\ReportsControllerTest.cs",
+              "RelativeDocumentMoniker": "tests\\reports_services.api.Tests\\Controllers\\ReportsControllerTest.cs",
+              "ToolTip": "C:\\Users\\ADBLA\\Documents\\GitHub\\reports_services\\tests\\reports_services.api.Tests\\Controllers\\ReportsControllerTest.cs",
+              "RelativeToolTip": "tests\\reports_services.api.Tests\\Controllers\\ReportsControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T19:01:01.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
