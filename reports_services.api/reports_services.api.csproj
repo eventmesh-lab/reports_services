@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="14.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\reports_services.application\reports_services.application.csproj" />
+    <ProjectReference Include="..\reports_services.domain\reports_services.domain.csproj" />
+    <ProjectReference Include="..\reports_services.infrastructure\reports_services.infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
